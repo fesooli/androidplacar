@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacarApp</string>
+    <string name="label_titulo">Times</string>
+    <string name="label_rodape">Desenvolvido por Fellipe Oliveira</string>
+    <string name="time_1">Time da Casa</string>
+    <string name="time_2">Time Visitante</string>
+    <string name="jogar">Jogar</string>
+    <string name="digite_o_nome_do_time">Digite o nome do time</string>
+</resources>
