@@ -6,4 +6,6 @@
     <string name="time_2">Time Visitante</string>
     <string name="jogar">Jogar</string>
     <string name="digite_o_nome_do_time">Digite o nome do time</string>
+    <string name="placarInicial">0</string>
+    <string name="btnGolPlacar">GOL</string>
 </resources>
