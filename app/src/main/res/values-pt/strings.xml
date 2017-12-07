@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnGolPlacar">GOL</string>
+    <string name="digite_o_nome_do_time">Digite o nome do time</string>
+    <string name="jogar">Jogar</string>
+    <string name="label_rodape">Desenvolvido por Fellipe Oliveira</string>
+    <string name="label_titulo">Times</string>
+    <string name="time_1">Time da Casa</string>
+    <string name="time_2">Time Visitante</string>
+</resources>

@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">PlacarApp</string>
-    <string name="label_titulo">Times</string>
-    <string name="label_rodape">Desenvolvido por Fellipe Oliveira</string>
-    <string name="time_1">Time da Casa</string>
-    <string name="time_2">Time Visitante</string>
-    <string name="jogar">Jogar</string>
-    <string name="digite_o_nome_do_time">Digite o nome do time</string>
-    <string name="placarInicial">0</string>
+    <string name="app_name" translatable="false">PlacarApp</string>
+    <string name="label_titulo">Teams</string>
+    <string name="label_rodape">Developed by Fellipe Oliveira</string>
+    <string name="time_1">Home Team</string>
+    <string name="jogar">Play</string>
+    <string name="digite_o_nome_do_time">Type the name of the team</string>
+    <string name="placarInicial" translatable="false">0</string>
     <string name="btnGolPlacar">GOL</string>
+    <string name="time_2">Visiting Team</string>
 </resources>
